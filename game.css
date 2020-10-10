@@ -13,8 +13,8 @@
 }
 
 /* container */
-#container{
-    width: 400px;
+#game{
+    width: 600px;
     height: 500px;
     border: 1px solid black;
     margin: auto;
@@ -22,7 +22,7 @@
 }
 
 /* ball */
-#ball{
+#character{
     width: 20px;
     height: 25px;
     background-color: orangered;
@@ -35,7 +35,7 @@
 
 /* tiles */
 .block{                                 
-    width: 400px;
+    width: 600px;
     height: 20px;
     background-color: #470e0e;
     position: relative;
