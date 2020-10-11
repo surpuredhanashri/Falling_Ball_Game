@@ -6,10 +6,6 @@
 
 section {
     padding: 2.9em;
-    /* background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-image: url("./assests/download.jpg");
-    background-size: 100%; */
     background-color: black;
 }
 
@@ -22,7 +18,7 @@ section {
 }
 
 .intro h1 {
-    padding-top: 1em;
+    padding-top: 2em;
     font-size: 50px;
     color: #72dd52;
 }
